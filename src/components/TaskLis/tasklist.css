@@ -3,8 +3,7 @@
   background-color: #5797b9;
   border-radius: 2px;
   display: flex;
-  flex-direction: column;
-  justify-content: center;
+  flex-direction: column;  
 }
 
 .tasklist .title {
